@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .header {
+    background-color: rgb(84, 92, 67);
+    color: rgb(183, 183, 157);
+    text-align: center;
+    padding: 8px;
+  }
+  .header .btn {
+    background-color: rgb(77, 77, 216);
+    color: white;
+    margin: 10px;
+  }
+  .container {
+    width: 1000px;
+    margin: auto;
+  }
+  .sc {
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+  }
+  .bcd {
+    color: lightgray;
+  }
+  .img {
+    width: 100%;
+  }
+  .box {
+    display: flex;
+    gap: 50px;
+  }
+  
+  .sc2 {
+    text-align: center;
+    background-color: orange;
+    padding: 10px;
+  }
+  .box2 {
+    display: flex;
+    gap: 50px;
+  }
+  
+  .img2 {
+    border-radius: 100%;
+    width: 20%;
+    justify-content: space-evenly;
+  }
+  .footer {
+    padding: 10px;
+    text-align: center;
+  }
+  .fp {
+    color: blue;
+  }
+  .fp2 {
+    color: gray;
+  }
